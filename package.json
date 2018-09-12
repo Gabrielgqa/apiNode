@@ -1,0 +1,22 @@
+{
+  "name": "desafio-backend-gabrielgomes",
+  "version": "1.0.0",
+  "description": "![Context LMS](logo.png)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://GQAGabriel@bitbucket.org/contextlms/desafio-backend-gabrielgomes.git"
+  },
+  "author": "GabrielGQA",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/contextlms/desafio-backend-gabrielgomes#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.14"
+  }
+}
